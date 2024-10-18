@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "allowJs": true
+  },
+  "include": ["**/*.ts", "**/*.js"]  // This includes both TypeScript and JavaScript files
+}
